@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/posts
   label: Page Generator
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
