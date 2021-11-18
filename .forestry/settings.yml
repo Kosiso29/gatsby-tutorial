@@ -9,6 +9,8 @@ sections:
   label: Page Generator
   create: documents
   match: "**/*"
+  templates:
+  - page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
